@@ -1,7 +1,5 @@
 Data enthusiast and Statistics student exploring data analysis, visualization, and predictive modeling with R, Python, and Excel. Passionate about turning data into actionable insights.
 
-Currently, I am focusing on **Time Series Analysis**, **Statistical Modeling**, and **Data Visualization**.
-
 ---
 
 ### Technical Toolkit

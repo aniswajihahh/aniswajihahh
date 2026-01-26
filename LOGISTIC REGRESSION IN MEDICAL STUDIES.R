@@ -1,7 +1,7 @@
 #### LOGISTIC REGRESSION IN MEDICAL STUDIES ####
 
 # Load dataset
-heart <- read.csv("C:/Users/anisw/OneDrive - Universiti Kebangsaan Malaysia/Documents/4 year/med stats/HEART_FAILURE.csv", header = TRUE)
+heart <- read.csv("HEART_FAILURE.csv", header = TRUE)
 
 # Explore structure and summary of the dataset
 str(heart)       # Check variable types and structure
@@ -96,4 +96,5 @@ auc(roc_curve)        # Area Under the Curve (AUC) measures predictive accuracy
 # OR provides clinical interpretation of predictor effect
 OR <- exp(coef(model_reduced))           # Exponentiate coefficients
 CI <- confint(model_reduced)             # 95% Confidence Interval for OR
+
 

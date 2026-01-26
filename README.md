@@ -1,6 +1,6 @@
 # Hi, I'm Anis 👋
 
-I am a final-year **Statistics Student** passionate about uncovering patterns in data. My goal is to bridge the gap between complex statistical methods and actionable business insights.
+I am a final-year **Statistics Student** passionate about uncovering meaningful patterns in data. I enjoy transforming complex statistical methods into actionable insights that drive better decision-making.
 
 Currently, I am focusing on **Time Series Analysis**, **Statistical Modeling**, and **Data Visualization**.
 
@@ -10,47 +10,30 @@ Currently, I am focusing on **Time Series Analysis**, **Statistical Modeling**, 
 
 | **Languages** | **Data & Tools** |
 | :--- | :--- |
-| ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) **R** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) **Power BI** |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) **Excel (Advanced)** |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) **SQL** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) **Jupyter / Anaconda** |
+| ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) **R** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) **Excel (Basic)** |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) **Jupyter / Anaconda** | 
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) **SQL** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) **Power BI** |
 
 ---
 
 ### 📊 Featured Projects
 
-#### 1. [Electricity Consumption & Sector Analysis (Final Year Project)](LINK_TO_REPO_HERE)
+#### 1. [Logistic Regression Analysis of Factors Associated with Heart Failure](https://github.com/aniswajihahh/aniswajihahh/blob/main/LOGISTIC%20REGRESSION%20IN%20MEDICAL%20STUDIES.R)
+*A statistical analysis to identify key risk factors contributing to heart failure.*
+*   **Objective:** To determine which clinical variables (such as age, blood pressure, etc.) have the most significant impact on heart failure outcomes.
+*   **Methodology:** Applied **Logistic Regression** to model the probability of heart failure and calculated Odds Ratios to interpret the strength of associations.
+*   **Tools:** R, Statistical Modeling, Data Cleaning.
+
+#### 2. [Electricity Consumption & Sector Analysis (Coming Soon)](LINK_TO_REPO_HERE)
 *Analyzed Malaysia's electricity consumption trends to identify sector-based dependencies.*
 *   **Methodology:** Applied **Granger Causality tests** and Time Series forecasting to determine predictive relationships.
 *   **Key Finding:** Discovered a significant causal link between the "losses sector" and commercial energy consumption.
-*   **Tools:** R, Time Series Analysis, Statistical Modeling.
-
-#### 2. [Medical Diagnosis Prediction](LOGISTIC REGRESSION IN MEDICAL STUDIES.R)
-*Developed a classification model to predict patient health outcomes based on clinical variables.*
-*   **Methodology:** Utilized **Logistic Regression** to identify significant risk factors and estimate probabilities.
-*   **Outcome:** Built a model that interprets how specific variables influence the likelihood of diagnosis.
-*   **Tools:** R, Logistic Regression, Data Cleaning.
-
-#### 3. Data Analysis Portfolio (Coming Soon)
-*A collection of smaller scripts and data cleaning exercises.*
+*   **Tools:** R, Time Series Analysis.
 
 ---
 
 ### 📫 Connect with Me
 I am currently looking for a **6-month internship placement** starting **March 2026**.
 
-*   [LinkedIn Profile](https://www.linkedin.com/in/anis-wajihah/)
-*   [Email Me](mailto:aniswajihahh@gmail.com)
-<!--
-**aniswajihahh/aniswajihahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   [LinkedIn Profile](https://www.linkedin.com/in/aniswajihah)
+*   [Email Me](mailto:aniswajihah@example.com)

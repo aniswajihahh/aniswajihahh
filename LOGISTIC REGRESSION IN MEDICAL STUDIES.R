@@ -7,7 +7,9 @@ heart <- read.csv("C:/Users/anisw/OneDrive - Universiti Kebangsaan Malaysia/Docu
 str(heart)       # Check variable types and structure
 summary(heart)   # Summary statistics (mean, median, min, max, etc.)
 
+# -------------------------------
 # 1. Set categorical variables as factor
+# -------------------------------
 # In medical logistic regression, categorical variables must be factors.
 # This ensures R treats them correctly for model fitting.
 heart$anaemia <- factor(heart$anaemia)
@@ -94,3 +96,4 @@ auc(roc_curve)        # Area Under the Curve (AUC) measures predictive accuracy
 # OR provides clinical interpretation of predictor effect
 OR <- exp(coef(model_reduced))           # Exponentiate coefficients
 CI <- confint(model_reduced)             # 95% Confidence Interval for OR
+

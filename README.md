@@ -1,12 +1,10 @@
-# Hi, I'm Anis 👋
-
-I am a final-year **Statistics Student** passionate about uncovering meaningful patterns in data. I enjoy transforming complex statistical methods into actionable insights that drive better decision-making.
+Data enthusiast and Statistics student exploring data analysis, visualization, and predictive modeling with R, Python, and Excel. Passionate about turning data into actionable insights.
 
 Currently, I am focusing on **Time Series Analysis**, **Statistical Modeling**, and **Data Visualization**.
 
 ---
 
-### 🛠️ Technical Toolkit
+### Technical Toolkit
 
 | **Languages** | **Data & Tools** |
 | :--- | :--- |
@@ -16,12 +14,12 @@ Currently, I am focusing on **Time Series Analysis**, **Statistical Modeling**, 
 
 ---
 
-### 📊 Featured Projects
+### My Projects
 
 #### 1. [Logistic Regression Analysis of Factors Associated with Heart Failure](https://github.com/aniswajihahh/aniswajihahh/blob/main/LOGISTIC%20REGRESSION%20IN%20MEDICAL%20STUDIES.R)
 *A statistical analysis to identify key risk factors contributing to heart failure.*
-*   **Objective:** To determine which clinical variables (such as age, blood pressure, etc.) have the most significant impact on heart failure outcomes.
-*   **Methodology:** Applied **Logistic Regression** to model the probability of heart failure and calculated Odds Ratios to interpret the strength of associations.
+*   **Objective:** Determine which clinical variables (such as age, blood pressure, etc.) have the most significant impact on heart failure outcomes.
+*   **Methodology:** Applied **Logistic Regression** to model the probability of heart failure & interpreted associations via Odds Ratios.
 *   **Tools:** R, Statistical Modeling, Data Cleaning.
 
 #### 2. [Electricity Consumption & Sector Analysis (Coming Soon)](LINK_TO_REPO_HERE)
@@ -33,7 +31,7 @@ Currently, I am focusing on **Time Series Analysis**, **Statistical Modeling**, 
 ---
 
 ### 📫 Connect with Me
-I am currently looking for a **6-month internship placement** starting **March 2026**.
+I am currently looking for a **6-month internship placement** starting **2 March 2026** until **14 August 2026**.
 
 *   [LinkedIn Profile](https://www.linkedin.com/in/aniswajihah)
 *   [Email Me](mailto:aniswajihah@example.com)

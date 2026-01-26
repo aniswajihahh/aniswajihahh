@@ -1,7 +1,5 @@
 Data enthusiast and Statistics student exploring data analysis, visualization, and predictive modeling with R, Python, and Excel. Passionate about turning data into actionable insights.
 
----
-
 ### Technical Toolkit
 
 | **Languages** | **Data & Tools** |
@@ -9,8 +7,6 @@ Data enthusiast and Statistics student exploring data analysis, visualization, a
 | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) **R** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) **Excel (Basic)** |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) **Jupyter / Anaconda** | 
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) **SQL** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) **Power BI** |
-
----
 
 ### My Projects
 
@@ -26,7 +22,6 @@ Data enthusiast and Statistics student exploring data analysis, visualization, a
 *   **Key Finding:** Discovered a significant causal link between the "losses sector" and commercial energy consumption.
 *   **Tools:** R, Time Series Analysis.
 
----
 
 ### 📫 Connect with Me
 I am currently looking for a **6-month internship placement** starting **2 March 2026** until **14 August 2026**.

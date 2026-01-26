@@ -24,7 +24,7 @@ Currently, I am focusing on **Time Series Analysis**, **Statistical Modeling**, 
 *   **Key Finding:** Discovered a significant causal link between the "losses sector" and commercial energy consumption.
 *   **Tools:** R, Time Series Analysis, Statistical Modeling.
 
-#### 2. [Medical Diagnosis Prediction](LINK_TO_REPO_HERE)
+#### 2. [Medical Diagnosis Prediction](LOGISTIC REGRESSION IN MEDICAL STUDIES.R)
 *Developed a classification model to predict patient health outcomes based on clinical variables.*
 *   **Methodology:** Utilized **Logistic Regression** to identify significant risk factors and estimate probabilities.
 *   **Outcome:** Built a model that interprets how specific variables influence the likelihood of diagnosis.

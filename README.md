@@ -10,7 +10,7 @@ Data enthusiast and Statistics student exploring data analysis, visualization, a
 
 ### My Projects
 
-#### 1. [Electricity Consumption & Sector Analysis](https://github.com/aniswajihahh/aniswajihahh/blob/fa7151438680acd5412e4c035bfa11d66e31ef6e/Granger%20VECM%20-%20Energy.R)
+#### 1. [Granger Causality Analysis of Electricity Consumption Across Multiple Sectors in Malaysia](https://github.com/aniswajihahh/aniswajihahh/blob/fa7151438680acd5412e4c035bfa11d66e31ef6e/Granger%20VECM%20-%20Energy.R)
 *Analyzed Malaysia's electricity consumption trends to identify sector-based dependencies.*
 *   **Methodology:** Applied **Granger Causality tests** and Time Series forecasting to determine predictive relationships.
 *   **Key Finding:** Discovered a significant causal link between the "losses sector" and commercial energy consumption.

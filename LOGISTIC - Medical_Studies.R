@@ -98,3 +98,4 @@ OR <- exp(coef(model_reduced))           # Exponentiate coefficients
 CI <- confint(model_reduced)             # 95% Confidence Interval for OR
 
 
+

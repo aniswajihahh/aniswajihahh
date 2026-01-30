@@ -20,8 +20,9 @@ Data enthusiast and Statistics student exploring data analysis, visualization, a
 *Analyzed Malaysia's electricity consumption trends to identify sector-based dependencies.*
 *   **Methodology:** Applied **Granger Causality tests** and Time Series forecasting to determine predictive relationships.
 *   **Key Finding:** Discovered a significant causal link between the "losses sector" and commercial energy consumption.
-*   **Tools:** R, Time Series Analysis.
-
+*   **Tools:** R, Power BI, Time Series Analysis.
+*   [Power BI Dashboard](https://github.com/aniswajihahh/aniswajihahh/blob/38afcfa02244e208cd9ddddadd835f5b8544ad8f/Dashboard_Energy.pbix)
+*   [Dashboard (jpg)](https://github.com/aniswajihahh/aniswajihahh/blob/38afcfa02244e208cd9ddddadd835f5b8544ad8f/Dashboard_Energy.jpg)
 
 ### 📫 Connect with Me
 I am currently looking for a **6-month internship placement** starting **2 March 2026** until **14 August 2026**.

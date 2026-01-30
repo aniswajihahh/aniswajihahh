@@ -10,19 +10,19 @@ Data enthusiast and Statistics student exploring data analysis, visualization, a
 
 ### My Projects
 
-#### 1. [Logistic Regression Analysis of Factors Associated with Heart Failure](https://github.com/aniswajihahh/aniswajihahh/blob/main/LOGISTIC%20REGRESSION%20IN%20MEDICAL%20STUDIES.R)
-*A statistical analysis to identify key risk factors contributing to heart failure.*
-*   **Objective:** Determine which clinical variables (such as age, blood pressure, etc.) have the most significant impact on heart failure outcomes.
-*   **Methodology:** Applied **Logistic Regression** to model the probability of heart failure & interpreted associations via Odds Ratios.
-*   **Tools:** R, Statistical Modeling, Data Cleaning.
-
-#### 2. [Electricity Consumption & Sector Analysis (Coming Soon)](LINK_TO_REPO_HERE)
+#### 1. [Electricity Consumption & Sector Analysis](https://github.com/aniswajihahh/aniswajihahh/blob/fa7151438680acd5412e4c035bfa11d66e31ef6e/Granger%20VECM%20-%20Energy.R)
 *Analyzed Malaysia's electricity consumption trends to identify sector-based dependencies.*
 *   **Methodology:** Applied **Granger Causality tests** and Time Series forecasting to determine predictive relationships.
 *   **Key Finding:** Discovered a significant causal link between the "losses sector" and commercial energy consumption.
 *   **Tools:** R, Power BI, Time Series Analysis.
 *   [Power BI Dashboard](https://github.com/aniswajihahh/aniswajihahh/blob/38afcfa02244e208cd9ddddadd835f5b8544ad8f/Dashboard_Energy.pbix)
 *   [Dashboard (jpg)](https://github.com/aniswajihahh/aniswajihahh/blob/38afcfa02244e208cd9ddddadd835f5b8544ad8f/Dashboard_Energy.jpg)
+
+#### 2. [Logistic Regression Analysis of Factors Associated with Heart Failure](https://github.com/aniswajihahh/aniswajihahh/blob/main/LOGISTIC%20REGRESSION%20IN%20MEDICAL%20STUDIES.R)
+*A statistical analysis to identify key risk factors contributing to heart failure.*
+*   **Objective:** Determine which clinical variables (such as age, blood pressure, etc.) have the most significant impact on heart failure outcomes.
+*   **Methodology:** Applied **Logistic Regression** to model the probability of heart failure & interpreted associations via Odds Ratios.
+*   **Tools:** R, Statistical Modeling, Data Cleaning.
 
 ### 📫 Connect with Me
 I am currently looking for a **6-month internship placement** starting **2 March 2026** until **14 August 2026**.

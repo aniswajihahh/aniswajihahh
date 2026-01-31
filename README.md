@@ -24,6 +24,9 @@ Data enthusiast and Statistics student exploring data analysis, visualization, a
 *   **Methodology:** Applied **Logistic Regression** to model the probability of heart failure & interpreted associations via Odds Ratios.
 *   **Tools:** R, Statistical Modeling, Data Cleaning.
 
+#### 3. [Financial Statement Analysis: Bonia & Padini](https://github.com/aniswajihahh/aniswajihahh/tree/b2af79bee901b7465525fa12ae894e3ab6371bba/Financial%20Statement%20Analysis)
+*Analyzed the financial performance of Bonia and Padini using their official reports from Bursa Malaysia.
+
 ### 📫 Connect with Me
 I am currently looking for a **6-month internship placement** starting **2 March 2026** until **14 August 2026**.
 
